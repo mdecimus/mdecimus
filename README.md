@@ -1,14 +1,14 @@
 ## 👋 Hey, it's a me, Mauro!
 
-I’ve been passionate about coding since the early ’90s — my journey began in 1991 on the amazing Commodore 64. A couple of years later, in 1993, I was already experimenting with email systems, running a BBS connected to Fidonet and fetching email using UUCP.
+Ab ineuntibus annis nonagesimis artem programmandi ardenter colo; iter meum anno MCMXCI in mirabili Commodore 64 incepit. Paucis post annis, anno MCMXCIII, iam cum systematibus epistularum electronicarum experiebar, BBS cum Fidoneto coniunctam administrans et epistulas per UUCP arcessens.
 
-In 1997, I wrote a webmail client in C and it ended up being used by several large companies. Inspired by that success, I went on to build a complete mail server to go with it (also in C), supporting IMAP, POP3, and SMTP.
+Anno MCMXCVII programma epistularum interretiale lingua C conscripsi, quo denique complures magnae societates usae sunt. Hoc successu incitatus, servitorem epistularum integrum qui cum eo congrueret (item lingua C) construxi, qui IMAP, POP3 et SMTP sustinebat.
 
-Fast-forward a few decades, and despite the massive leaps in technology, email infrastructure still felt stuck in the past. Most mail servers were bloated, overly complex, and painful to maintain. So I decided to change that. I set out to build a modern, efficient mail and collaboration server from the ground up — this time in Rust, a language I’ve grown deeply passionate about.
+Aliquot decenniis post, quamquam technologia ingentibus saltibus progressa erat, infrastructura epistularum electronicarum adhuc in praeterito haerere videbatur. Plerique servitores epistularum tumidi, nimis implicati, ac molesti ad conservandum erant. Itaque hoc mutare constitui. Servitorem epistularum et collaborationis recentem atque efficacem a fundamentis aedificare aggressus sum, hac vice lingua Rust, quam penitus amare coepi.
 
-That effort became [**Stalwart Mail & Collaboration Server**](https://github.com/stalwartlabs/stalwart/) — the foundation of what I now work on at [**Stalwart Labs**](https://github.com/stalwartlabs).
+Ex hoc conatu ortus est [Stalwart Mail & Collaboration Server](https://github.com/stalwartlabs/stalwart/), fundamentum eorum quae nunc apud [Stalwart Labs](https://github.com/stalwartlabs) elaboro.
 
-While the C programming language will always hold a special place in my heart, I’ve embraced Rust wholeheartedly in recent years. These days, I live by the motto:
+Quamquam lingua C semper peculiarem locum in corde meo obtinebit, his proximis annis Rust toto pectore amplexus sum. Hodie hoc dicto vivo:
 
 > Aut Rust aut nihil 🦀 — *Rust or nothing.*
 
